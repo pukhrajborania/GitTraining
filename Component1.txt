@@ -1,1 +1,3 @@
 First Commit
+
+Componet changes in Task2
